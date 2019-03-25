@@ -1,4 +1,4 @@
 
 
-chromePath = '/Users/asgarh/Downloads/chromedriver'
-base_url = 'https://www.airnewzealand.co.nz/'
+chromePath = 'C:\\Users\\paarsa\\Documents\\drivers\\chromedriver'
+base_url = 'https://contact.co.nz/account/sign-in'
