@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8542453-5198-4d0e-860b-0d4fdb6c8546" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/testcases/MoveHouse_TestSuite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcases/move.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pageobjects/CustomerJourneyPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/pageobjects/CustomerJourneyPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcases/j.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/values/strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/values/strings.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testcases/MoveHouse_TestSuite.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testcases/move.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2272">
+              <caret line="250" selection-start-line="250" selection-end-line="250" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/values/strings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pageobjects/CustomerJourneyPage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="690">
+              <caret line="52" column="75" selection-start-line="52" selection-start-column="75" selection-end-line="52" selection-end-column="75" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>SigninPage</find>
+      <find>assert</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>CustomerJourneyPage</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/testcases/Signin_TestSuite.py" />
+        <option value="$PROJECT_DIR$/testcases/.pytest_cache/Add_TestSuite.py" />
+        <option value="$PROJECT_DIR$/pageobjects/AddPage.py" />
+        <option value="$PROJECT_DIR$/testcases/add.py" />
+        <option value="$PROJECT_DIR$/testcases/AddProperty_TestSuite.py" />
+        <option value="$PROJECT_DIR$/testcases/MoveHouse_TestSuite.py" />
+        <option value="$PROJECT_DIR$/pageobjects/CustomerJourneyPage.py" />
+        <option value="$PROJECT_DIR$/values/strings.py" />
+        <option value="$PROJECT_DIR$/testcases/move.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="python_selenium_skeleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_selenium_skeleton" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_selenium_skeleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_selenium_skeleton" type="462c0819:PsiDirectoryNode" />
+              <item name="pageobjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_selenium_skeleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_selenium_skeleton" type="462c0819:PsiDirectoryNode" />
+              <item name="testcases" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_selenium_skeleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_selenium_skeleton" type="462c0819:PsiDirectoryNode" />
+              <item name="values" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/testcases" />
+      <recent name="$PROJECT_DIR$/pageobjects" />
+      <recent name="$PROJECT_DIR$/testcases/.pytest_cache" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for MoveHouse_TestSuite.Test_MoveHouse">
+    <configuration name="pytest for AddProperty_TestSuite.Test_AddProperty" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="python_selenium_skeleton" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;AddProperty_TestSuite.Test_AddProperty&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for MoveHouse_TestSuite.Test_AddProperty" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="python_selenium_skeleton" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;MoveHouse_TestSuite.Test_AddProperty&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for MoveHouse_TestSuite.Test_MoveHouse" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="python_selenium_skeleton" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;MoveHouse_TestSuite.Test_MoveHouse&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for Signin_TestSuite.Test_Signin" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="python_selenium_skeleton" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Signin_TestSuite.Test_Signin&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for MoveHouse_TestSuite.Test_MoveHouse" />
+        <item itemvalue="Python tests.pytest for MoveHouse_TestSuite.Test_AddProperty" />
+        <item itemvalue="Python tests.pytest for AddProperty_TestSuite.Test_AddProperty" />
+        <item itemvalue="Python tests.pytest for Signin_TestSuite.Test_Signin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8542453-5198-4d0e-860b-0d4fdb6c8546" name="Default Changelist" comment="" />
+      <created>1553542963670</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553542963670</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_for_AddProperty_TestSuite_Test_AddProperty - 2019.03.26 at 12h 13m 11s.xml">
+      <configuration name="pytest for AddProperty_TestSuite.Test_AddProperty" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_AddProperty_TestSuite_Test_AddProperty - 2019.03.26 at 12h 15m 20s.xml">
+      <configuration name="pytest for AddProperty_TestSuite.Test_AddProperty" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_AddProperty_TestSuite_Test_AddProperty - 2019.03.26 at 12h 18m 42s.xml">
+      <configuration name="pytest for AddProperty_TestSuite.Test_AddProperty" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_AddProperty_TestSuite_Test_AddProperty - 2019.03.26 at 12h 21m 40s.xml">
+      <configuration name="pytest for AddProperty_TestSuite.Test_AddProperty" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_AddProperty_TestSuite_Test_AddProperty - 2019.03.26 at 12h 26m 50s.xml">
+      <configuration name="pytest for AddProperty_TestSuite.Test_AddProperty" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_AddProperty_TestSuite_Test_AddProperty - 2019.03.26 at 12h 29m 03s.xml">
+      <configuration name="pytest for AddProperty_TestSuite.Test_AddProperty" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_MoveHouse_TestSuite_Test_AddProperty - 2019.03.26 at 13h 13m 32s.xml">
+      <configuration name="pytest for MoveHouse_TestSuite.Test_AddProperty" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_MoveHouse_TestSuite_Test_AddProperty - 2019.03.26 at 13h 16m 23s.xml">
+      <configuration name="pytest for MoveHouse_TestSuite.Test_AddProperty" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_MoveHouse_TestSuite_Test_MoveHouse - 2019.03.26 at 13h 16m 54s.xml">
+      <configuration name="pytest for MoveHouse_TestSuite.Test_MoveHouse" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_MoveHouse_TestSuite_Test_MoveHouse - 2019.03.26 at 14h 03m 19s.xml">
+      <configuration name="pytest for MoveHouse_TestSuite.Test_MoveHouse" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18534179" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.46751592" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/browser/basepage.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobjects/SigninPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/Signin_TestSuite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/.pytest_cache/Add_TestSuite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="39" column="26" lean-forward="true" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#193#504#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/add.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/AddProperty_TestSuite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#2#13#0" expanded="true" />
+            <element signature="e#480#791#0" />
+            <element signature="e#1651#1669#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/MoveHouse_TestSuite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobjects/CustomerJourneyPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="52" column="75" selection-start-line="52" selection-start-column="75" selection-end-line="52" selection-end-column="75" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/values/strings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/move.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2272">
+          <caret line="250" selection-start-line="250" selection-end-line="250" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

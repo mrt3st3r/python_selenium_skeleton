@@ -8,6 +8,7 @@ base_url = 'https://test.contact.co.nz/'
 
 MAKE_CHANGES_PAGE_TITLE = 'Contact Energy | Power Company | For Home | Make Changes'
 ADD_PROPERTY_SUCCESS_PAGE_TITLE = 'Add Property Success'
+MOVE_HOUSE_SUCCESS_PAGE_TITLE = 'Move Success'
 ADD_PROPERTY_SUCCESS_PAGE_URL = 'https://test.contact.co.nz/residential/my-details/add-property-success'
 
 # test data

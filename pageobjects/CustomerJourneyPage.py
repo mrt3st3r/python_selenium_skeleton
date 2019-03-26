@@ -15,7 +15,8 @@ class CustomerJourneyPage(basepage.BasePage):
     # Elements
 
     # make- changes page elements
-    add_property_xpath_elem = (By.XPATH, '//*[@id="user-journey-actions-form"]/div[2]/div/div/div[2]/label')
+    add_property_xpath_elem = (By.XPATH, '//*[@id="user-journey-actions-form"]/div[2]/div/div/div[1]/label')
+    move_house_xpath_elem = (By.XPATH, '//*[@id="user-journey-actions-form"]/div[2]/div/div/div[2]/label')
     acc_no_id_elem = (By.ID, 'AccountNumber')
     address_xpath_elem = (By.XPATH, '//*[contains(@id, "AddressPicker-")]')
     electricity_css_elem = (By.CSS_SELECTOR, '.ELEC .cta-inner-wrapper')
@@ -47,6 +48,10 @@ class CustomerJourneyPage(basepage.BasePage):
     def add_property(self):
         self.driver.find_element(*CustomerJourneyPage.add_property_xpath_elem).click()
         print("Add property - Selected!")
+
+    def move_house(self):
+        self.driver.find_element(*CustomerJourneyPage.move_house_xpath_elem).click()
+        print("Move house - Selected!")
 
     def enter_account_no(self, accNo):
         elem = self.driver.find_element(*CustomerJourneyPage.acc_no_id_elem)
