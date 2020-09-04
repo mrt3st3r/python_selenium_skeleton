@@ -1,7 +1,7 @@
 
 
 chromePath = '/Users/test/Downloads/p/chromedriver'
-base_url = 'https://test.contact.co.nz/'
+base_url = 'https://x.y.com/'
 
 
 #  Add journey
@@ -14,7 +14,7 @@ ADD_PROPERTY_SUCCESS_PAGE_URL = 'https://test.contact.co.nz/residential/my-detai
 # test data
 test_data_acc_no = '623456879'
 test_data_address = '2 Burton Way, Bishopdale, Nelson 7011'
-test_data_emailaddress = 'AutoTest@contact.co.nz'
+test_data_emailaddress = 'AutoTest@xy.co.nz'
 test_data_first_name = 'first name'
 test_data_last_name = 'last name'
 test_data_phone_no = '099876543'
